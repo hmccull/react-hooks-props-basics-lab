@@ -64,4 +64,5 @@ nav a:active {
 
 #about a {
   display: block;
+  text-decoration: none;
 }
